@@ -1,14 +1,21 @@
-# 👋 Hi, I am Antoine Phan
+<h1 style="font-family:monospace"> 👋 Hi, I am Antoine Phan </h1>
 
-![https://antoinephan.me](https://img.shields.io/badge/my%20website-antoinephan.me-brightgreen?style=for-the-badge)
-![https://www.linkedin.com/in/antoinephan/](https://img.shields.io/badge/LinkedIn-Antoine%20Phan-blue?style=for-the-badge)
+[![My Website](https://img.shields.io/badge/my%20website-antoinephan.me-brightgreen?style=for-the-badge)](https://antoinephan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoine%20Phan-blue?style=for-the-badge)](https://www.linkedin.com/in/antoinephan/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![notkaramel's GitHub stats](https://github-readme-stats.vercel.app/api?username=notkaramel&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<h2 style="font-family:monospace"> My Skills </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,java,py,react,js,css,html,git,vim,r,sass,arduino,raspberrypi,linux,pr,ai,ps,ableton&perline=10)](https://skillicons.dev)
 
 
-<!-- ## MY TECH STACK
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=notkaramel&theme=tokyonight&hide_border=false) -->
+
+
+<!-- 
 <h3> General Purpose Programming </h3>
 <div class="container">
 <img style="height:3rem; background:#ffffff; border-radius: 24%; padding: 0.6rem; border-shadow: 2rem white solid;"

@@ -1,5 +1,23 @@
 # 👋 Hi, I am Antoine Phan
 
+<style>
+    h1,h2,h3{
+        font-family: monospace;
+    }
+    .container{
+        display:flex;
+        gap:2rem;
+        width:100%;
+    }
+    .container .icon{
+        height:3rem;
+        background:#ffffff;
+        border-radius: 24%;
+        padding: 0.6rem;
+        border-shadow: 2rem white solid;
+    }
+</style>
+
 ![https://antoinephan.me](https://img.shields.io/badge/my%20website-antoinephan.me-brightgreen?style=for-the-badge)
 ![https://www.linkedin.com/in/antoinephan/](https://img.shields.io/badge/LinkedIn-Antoine%20Phan-blue?style=for-the-badge)
 
@@ -52,24 +70,6 @@
 </div>
 
                    
-
-<style>
-    h1,h2,h3{
-        font-family: monospace;
-    }
-    .container{
-        display:flex;
-        gap:2rem;
-        width:100%;
-    }
-    .container .icon{
-        height:3rem;
-        background:#ffffff;
-        border-radius: 24%;
-        padding: 0.6rem;
-        border-shadow: 2rem white solid;
-    }
-</style>
 
 
 

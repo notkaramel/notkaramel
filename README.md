@@ -9,7 +9,7 @@
 
 <h2 style="font-family:monospace"> My Skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,java,py,react,js,css,html,git,vim,r,sass,arduino,raspberrypi,linux,pr,ai,ps,ableton&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,java,py,react,js,css,html,git,vim,sass,raspberrypi,linux,pr,ai,ps,ableton&perline=9)](https://skillicons.dev)
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=notkaramel&theme=tokyonight&hide_border=false) -->

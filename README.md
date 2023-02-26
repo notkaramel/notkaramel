@@ -7,14 +7,14 @@
 
 <table>
 <tr>
-<td valign="middle" height="200vh"> 
+<td valign="middle"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&langs_count=8&hide=cmake" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&langs_count=8&hide=cmake" alt="Top Langs" height="200vh"/>
 
 </td>
-<td valign="middle" height="200vh">
+<td valign="middle">
 
-<img alt="notkaramel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=notkaramel&show_icons=true&theme=tokyonight&count_private=true" />
+<img alt="notkaramel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=notkaramel&show_icons=true&theme=tokyonight&count_private=true"  height="200vh"/>
 
 </td>
 </tr>

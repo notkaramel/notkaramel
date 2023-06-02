@@ -63,7 +63,7 @@ mount --mkdir /dev/EFI /mnt/boot 	// for the EFI file system
 - Edit `/etc/pacman.conf` and enable `ParallelDownloads = ...` for faster download
 - Install essential packages (see [CorePackages.md](CorePackages.md) for more). `pacstrap` also have flags like `-K` to initialize empty pacman keyring
 ```sh
-pacstrap /mnt base linux linux-firmware 
+pacstrap /mnt base linux linux-firmware base base-devel # ... 
 ```
 - Generate file system table `fstab`
 ```sh
@@ -164,3 +164,6 @@ umount -a /mnt # unmount all
 ## Source
 - [Arch Wiki Guide](https://wiki.archlinux.org/title/Installation_guide)
 - [DistroTube Guide](https://youtu.be/PQgyW10xD8s)
+- [Dual boot with Windows - ArchWiki](https://wiki.archlinux.org/title/Dual_boot_with_Windows)
+- [Partitioning - ArchWiki](https://wiki.archlinux.org/title/Partitioning#Discrete_partitions)
+- [EFI system partition - ArchWiki](https://wiki.archlinux.org/title/EFI_system_partition#Mount_the_partition)

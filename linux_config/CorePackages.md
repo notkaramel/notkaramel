@@ -33,6 +33,7 @@ Notation styles:
 
 ### Tools & Drivers
 - git
+- curl, wget
 - `yay` or `yay-bin` (requires `base-devel` above)
 ```sh
 git clone https://aur.archlinux.org/yay
@@ -45,17 +46,20 @@ makepkg -si
 - [xorg], wayland
 ---
 ## User Interface (post-installation)
+### Fonts & Visual
+- ttf-firacode-nerd, ttf-fira-code (there is also woff2 version)
+- noto-fonts-cjk, noto-fonts-emoji, noto-fonts-extra
+- tree
+
 ### Shell-related
 - zsh, fish
 - alacritty
 - gnome-console (`kgx`), or gnome-terminal
-- ttf-firacode-nerd, ttf-fira-code (there is also woff2 version)
-- noto-fonts-cjk, noto-fonts-emoji, noto-fonts-extra
 - tmux
-- tree
 - bashtop, htop, gotop (AUR)
 - oh-my-bash-git (AUR), oh-my-zsh-git (AUR)
-- tree
+- bash-completion, zsh-completions
+- zsh-autosuggestions (AUR, git), zsh-syntax-highlighting (AUR, git)
 
 ### Window Manager (WM)
 * xorg-xinit (to aquire `startx`)
@@ -93,10 +97,9 @@ makepkg -si
     - spotify (AUR), spotify-qt (AUR, dev app)
     - obs-studio
 * Entertainment (Games)
-    - 
+    - minecraft-launcher (AUR)
 * Quality of life 
     - nautilus [gnome] + sushi [gnome]
-    - 
 
 ---
 ### Fun ones

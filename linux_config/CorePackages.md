@@ -74,12 +74,25 @@ makepkg -si
     - xrandr
     - arandr
 
+### Utilities
+- pipewire, wireplumber, pipewire-audio, pipewire-v4l2
+- jack2 (for `obs-studio`), helvum (wiring devices), jack2-dbus & a2jmidid ([Using MIDI devices](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit#Using_MIDI_devices), see ArchWiki for more)
+- bluez, bluez-utils (for `bluetoothctl`)
+- blueberry (managing bluetooth devices)
+- gnome-keyring (keychain), seahorse (managing keys like GPG)
+- touchegg (AUR, touchpad gesture for X11), touche (AUR, GUI for touchegg)
+- ibus (multi-lang), ibus-bamboo (AUR, Vietnamese ibus interface [ibus-bamboo GitHub](https://github.com/BambooEngine/ibus-bamboo#arch-linux-v%C3%A0-c%C3%A1c-distro-t%C6%B0%C6%A1ng-t%E1%BB%B1))
+
+
 ### Desktop Environment
 * GNOME experience:
     - [gnome]  (select what you want/need)
     - [gnome-extra]
     - gdm, gdm-settings (AUR)
 * KDE Plasma experience: [plasma] [kde-applications] [kde-utilities]
+
+### SDK
+- jdk-openjdk 
 
 ### Everyday apps
 * Coding: (open-source version does not have profile sync)
@@ -94,7 +107,7 @@ makepkg -si
     - onlyoffice-bin (AUR)
     - musescore [pro-audio], muse-hub-bin (AUR)
     - yoshimi [pro-audio lv2-plugins]
-    - spotify (AUR), spotify-qt (AUR, dev app)
+    - spotify (AUR)
     - obs-studio
 * Entertainment (Games)
     - minecraft-launcher (AUR)

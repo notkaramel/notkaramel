@@ -5,7 +5,7 @@
     - From Windows: Use `rufus` to flash ISO to drive
     - From Linux:
         - Using `rpi-imager` (AUR) via custom image
-        - Multi-Media-Utility (?)
+        - MultiWriter `gnome-multi-writer`
 
 ## Network Configuration
 - Using wired connection is preferable

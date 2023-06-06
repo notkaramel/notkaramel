@@ -94,7 +94,10 @@ makepkg -si
 ### SDK
 - jdk-openjdk 
 
-### Specialties 
+### System Controllers
+- pactl (PulseAudio controller), amixer (ALSA controller)
+- brightnessctl (brightness controller)
+- playerctl (Media Player Controller)
 - zsa-udev (for ZSA Moonlander Keyboards)
 
 ### Everyday apps

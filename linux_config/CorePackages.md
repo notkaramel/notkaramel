@@ -82,7 +82,7 @@ makepkg -si
 - gnome-keyring (keychain), seahorse (managing keys like GPG)
 - touchegg (AUR, touchpad gesture for X11), touche (AUR, GUI for touchegg)
 - ibus (multi-lang), ibus-bamboo (AUR, Vietnamese ibus interface [ibus-bamboo GitHub](https://github.com/BambooEngine/ibus-bamboo#arch-linux-v%C3%A0-c%C3%A1c-distro-t%C6%B0%C6%A1ng-t%E1%BB%B1))
-
+- jq, hq, yq: parsing JSON, HTML, YAML, respectively
 
 ### Desktop Environment
 * GNOME experience:
@@ -93,6 +93,9 @@ makepkg -si
 
 ### SDK
 - jdk-openjdk 
+
+### Specialties 
+- zsa-udev (for ZSA Moonlander Keyboards)
 
 ### Everyday apps
 * Coding: (open-source version does not have profile sync)
@@ -109,10 +112,12 @@ makepkg -si
     - yoshimi [pro-audio lv2-plugins]
     - spotify (AUR)
     - obs-studio
+    - vlc
 * Entertainment (Games)
     - minecraft-launcher (AUR)
 * Quality of life 
     - nautilus [gnome] + sushi [gnome]
+    - power-profiles-daemon (Managing power profiles)
 
 ---
 ### Fun ones

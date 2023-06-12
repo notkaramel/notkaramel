@@ -50,7 +50,8 @@ makepkg -si
 - ttf-firacode-nerd, ttf-fira-code (there is also woff2 version)
 - noto-fonts-cjk, noto-fonts-emoji, noto-fonts-extra
 - tree
-
+- picom (transparency in X11)
+- feh (view picture + set background)
 ### Shell-related
 - zsh, fish
 - alacritty
@@ -60,19 +61,24 @@ makepkg -si
 - oh-my-bash-git (AUR), oh-my-zsh-git (AUR)
 - bash-completion, zsh-completions
 - zsh-autosuggestions (AUR, git), zsh-syntax-highlighting (AUR, git)
+- picom (for transparency of Alacritty and X11 transition)
+- lf, ranger (file manager)
+- xdotool (commandline automation | rofimoji insertion mode)
 
 ### Window Manager (WM)
 * xorg-xinit (to aquire `startx`)
-* i3 experience:
+* i3 experience (See i3Configuration.md for more):
     - i3-wm [i3]
     - i3blocks [i3]
     - i3lock [i3]
     - i3status [i3]
-    - dmenu
+    - dmenu | rofi (dynamic menu)
+
 
 * Dual Monitors:
     - xrandr
     - arandr
+
 
 ### Utilities
 - pipewire, wireplumber, pipewire-audio, pipewire-v4l2
@@ -111,7 +117,7 @@ makepkg -si
     - discord
 * Office Suite, Art & Music
     - onlyoffice-bin (AUR)
-    - musescore [pro-audio], muse-hub-bin (AUR)
+    - musescore [pro-audio], muse-hub-bin (AUR but it's broken there. I suggest download `.deb` and unpack using `ar x` and install using `tar` instead)
     - yoshimi [pro-audio lv2-plugins]
     - spotify (AUR)
     - obs-studio

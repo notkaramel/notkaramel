@@ -1,4 +1,5 @@
-# Arch Installation Documentation
+# Arch Installation Documentation (non dual-boot)
+> by @notkaramel
 
 ## Prerequisite
 - [ ] USB Drive (~800MB) with [archiso](https://archlinux.org/download/)

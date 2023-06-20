@@ -1,6 +1,5 @@
 <h1> Hi there! I'm Antoine 👋 </h1>
 
-<a href="http://portfolio.antoinephan.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/my%20portfolio-informational?style=for-the-badge" alt="Portfolio"> </a>
 <a href="https://antoinephan.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/my%20website-informational?style=for-the-badge" alt="Website"> </a>
 <a href="https://www.linkedin.com/in/antoinephan/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="Linkedin"> </a>
 

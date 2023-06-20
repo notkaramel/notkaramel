@@ -89,6 +89,7 @@ makepkg -si
 - touchegg (AUR, touchpad gesture for X11), touche (AUR, GUI for touchegg)
 - ibus (multi-lang), ibus-bamboo (AUR, Vietnamese ibus interface [ibus-bamboo GitHub](https://github.com/BambooEngine/ibus-bamboo#arch-linux-v%C3%A0-c%C3%A1c-distro-t%C6%B0%C6%A1ng-t%E1%BB%B1))
 - jq, hq, yq: parsing JSON, HTML, YAML, respectively
+- android-udev: connecting Android device to linux
 
 ### Desktop Environment
 * GNOME experience:
@@ -99,6 +100,8 @@ makepkg -si
 
 ### SDK
 - jdk-openjdk 
+- android-tools
+- base-devel, gcc, cmake, clang, ...
 
 ### System Controllers
 - pactl (PulseAudio controller), amixer (ALSA controller)

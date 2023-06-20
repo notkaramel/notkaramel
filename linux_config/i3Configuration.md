@@ -1,6 +1,7 @@
 # `i3` Configuration and Everything
 
 Pain, but worth it :)
+Movinya was here :))
 
 ---
 ## 0. List of config files (relative to `$HOME`)

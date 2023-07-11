@@ -1,4 +1,4 @@
-<h1> Hi there! I'm Antoine 👋 </h1>
+<h1> Hi there! 👋 </h1>
 
 <a href="https://antoinephan.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/my%20website-informational?style=for-the-badge" alt="Website"> </a>
 <a href="https://www.linkedin.com/in/antoinephan/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="Linkedin"> </a>
@@ -9,7 +9,7 @@
 <tr>
 <td valign="middle"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&langs_count=8&hide=cmake" alt="Top Langs" height="200vh"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&langs_count=8&hide=cmake,html,tcl" alt="Top Langs" height="200vh"/>
 
 </td>
 <td valign="middle">
@@ -20,19 +20,12 @@
 </tr>
 </table>
 
-## My Skills
+---
+<!-- ## My Skills -->
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,java,react,js,css,html,git,vim,sass,v,raspberrypi,linux,pr,ai,ps&perline=9)
-
-
-<!-- 
-[![My Website](https://img.shields.io/badge/my%20website-informational?style=for-the-badge)](https://antoinephan.me) -->
-
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/antoinephan/) -->
+<!-- ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,java,react,js,css,html,git,vim,sass,v,raspberrypi,linux,pr,ai,ps&perline=9) -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=notkaramel&theme=tokyonight&hide_border=false) -->
-
-## 
 
 <!--
 - 🔭 I’m currently working on ...

@@ -1,40 +1,24 @@
-<h1> Hi there! 👋 </h1>
+# Hi! It's notkaramel! 👋 
+> It's pronouned `/nɒtˈkɑɹ.məl/` or "not-karamel" like the caramel candy for non-IPA readers. The name originates from the French dessert **crème caramel** (*flan*, or *custard*) which I love 🍮.
 
-<a href="https://antoinephan.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/my%20website-informational?style=for-the-badge" alt="Website"> </a>
-<a href="https://www.linkedin.com/in/antoinephan/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="Linkedin"> </a>
+I'm studying Electrical Engineering at McGill University (Montréal, Canada), with two minors in Software Engineering and Musical Science & Technology. My interest and speciality met in the [crossroads](https://youtu.be/kx5TWKPE5sU) between hardware development (circuits and stuff), software tools, and music. 
 
-<h2>  Some fancy GitHub stats </h2>
+I love building projects and learning fascinating things. It's actually easier to show you than summarize and make you read about them here, so feel free to check them out!
 
-<table>
-<tr>
-<td valign="middle"> 
+> I would love to collaborate on projects, so feel free to reach out to me! You can contact me through [email](mailto:antoine.phan@mail.mcgill.ca) or [LinkedIn](https://www.linkedin.com/in/antoinephan/) (and please let me know you found me from GitHub!).
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkaramel&layout=compact&theme=tokyonight&langs_count=8&hide=cmake,html,tcl" alt="Top Langs" height="200vh"/>
+## Current projects
+- [ECHOES-from-the-Past/mei-analyser](https://github.com/ECHOES-from-the-Past/mei-analyser): Analyse and compare Aquitanian and Square notation of Early Music chants
+- [musical-filters](https://github.com/notkaramel/musical-filters): applying photo filters to music, in collaboration with [etomiuk](https://github.com/etomiuk)
+- [IEEE-McGill-Student-Branch/IEEE-McGill](https://github.com/IEEE-McGill-Student-Branch/IEEE-McGill): the website of the IEEE Student Branch at McGill University
 
-</td>
-<td valign="middle">
+## Fun non-projects repository
+- [dotfiles](https://github.com/notkaramel/dotfiles): my Linux configuration files
+- [posy-cursors](https://github.com/notkaramel/posy-cursors): a fork of the [Posy Cursors](https://youtu.be/YThelfB2fvg) theme for Linux. 
 
-<img alt="notkaramel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=notkaramel&show_icons=true&theme=tokyonight&count_private=true"  height="200vh"/>
-
-</td>
-</tr>
-</table>
-
----
-<!-- ## My Skills -->
-
-<!-- ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,java,react,js,css,html,git,vim,sass,v,raspberrypi,linux,pr,ai,ps&perline=9) -->
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=notkaramel&theme=tokyonight&hide_border=false) -->
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--  TEST  -->
+## Past projects
+- Shared Reality Lab's [IMAGE-server](https://github.com/Shared-Reality-Lab/IMAGE-server) and [IMAGE-browser](https://github.com/Shared-Reality-Lab/IMAGE-browser): server-side and client-side of an accessibility web extension for users who are blind or low-vision, part of the [IMAGE project](https://image.a11y.mcgill.ca).
+- [ArchLinux-on-ARM](https://github.com/notkaramel/ArchLinux-on-ARM): a Python/Bash script to automate the installation of Arch Linux on ARM-based devices (Raspberry Pi, so far).
+- [Portfolio](https://github.com/notkaramel/portfolio): my personal website, built with ReactJS and SCSS
+- [Waddl-E](https://github.com/notkaramel/Waddl-E): An autonomous delivery robot. Made with BrickPi, Lego Mindstorm, and love (ECSE 211)
+- [Pepperoni](https://github.com/notkaramel/Pepperoni): An Arduino robot car that goes through an obstacle course (ForgeMcGill - Hardware Hackathon)

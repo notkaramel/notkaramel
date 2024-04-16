@@ -1,10 +1,10 @@
 # Hi, I'm Antoine! 👋 
-Je suis le perfect blend of Electrical, Software, and Music Technology. A Linux enthusiast who lives on coffee and the command line (_I use Arch btw_).
+The perfect blend of Electrical, Software, and Music Technology. Linux enthusiast who lives on coffee and the command line (_✨ I use Arch btw ✨_).
 
 > **Crème caramel** 🍮 (a.k.a *flan* or *custard*) is a delicate French dessert.
 
 ## Have a project in mind and want to collab? 🤔
-[Send me an email](mailto:antoine.phan@mail.mcgill.ca) (antoine.phan@mail.mcgill.ca), or connect with me on [LinkedIn](https://www.linkedin.com/in/antoinephan/) (and please let me know you found me from GitHub!). 
+[Send me an email](mailto:antoine.phan@mail.mcgill.ca), or connect with me on [LinkedIn](https://www.linkedin.com/in/antoinephan/) (and please let me know you found me from GitHub!). 
 
 
 ## My evergrowing tech stack 🍔
@@ -21,8 +21,9 @@ Je suis le perfect blend of Electrical, Software, and Music Technology. A Linux 
 ## Currently working on 🛠️
 - 🌟 [ECHOES-from-the-Past/mei-analyser](https://github.com/ECHOES-from-the-Past/mei-analyser): Perform search and analysis of Western Early Music chants (Aquitanian and Square notation).
 - 🎶 [musical-filters](https://github.com/notkaramel/musical-filters): applying photo filters to music, in collaboration with [etomiuk](https://github.com/etomiuk).
-- 🛻 [ArduinoPS4Car](https://github.com/notkaramel/ArduinoPS4Car): a PS4-controlled Arduino car, in collaboration with [CyrilMyril](https://g.ithub.com/CyrilMyril)
-- 🎑 [karamelOS](https://github.com/notkaramel/karamelOS): an Arch-based Linux distribution, made with `archiso`
+<!-- - 🎑 [karamelOS](https://github.com/notkaramel/karamelOS): an Arch-based Linux distribution, made with `archiso` -->
+- 🛻 []
+- 🚘 [ArduinoPS4Car](https://github.com/notkaramel/ArduinoPS4Car): a PS4-controlled Arduino car, in collaboration with [CyrilMyril](https://g.ithub.com/CyrilMyril)
 - 🛡️ [IEEE-McGill](https://github.com/IEEE-McGill-Student-Branch/IEEE-McGill): the website of the IEEE Student Branch at McGill University
 
 ## Yes, I use Linux as my daily driver 🐧

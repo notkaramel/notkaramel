@@ -1,12 +1,14 @@
-# Hi, I'm Antoine! 👋 
-Electrical, Software, and Music Technology. A Linux enthusiast who lives the command line (_I use Arch btw_).
+# Hi, I'm Antoine! 👋
+Electrical/Software Engineering and Music Technology at McGill University. A Linux enthusiast who lives the command line.
 
-# Interests
-I'm self-teaching web app development (primarily client-side and UI/UX design) and embedded systems for wireless audio devices.
+I learned most things as I go. My current interests and skillset includes:
+- Cloud Computing/System Admin (Linux)
+- Frontend dev (JS, TailwindCSS, SvelteKit)
+- Backend dev (expressJS, Flask, Spring Boot)
+- Analog/Digital Signal Processing + Audio Processing
+- and a lot more! 
 
-# Have a project in mind and want to collab? 🤔
-I'm down to take up new challenges in the field of Software-Electrical-Music Tech. [Send me an email](mailto:antoine.phan@mail.mcgill.ca), or connect with me on [LinkedIn](https://www.linkedin.com/in/antoinephan/) if you have an idea and is looking for a teammate!
-
-My Tech stack? Everything is a tool and it would not take much time for me to catch up and able to use any tech for the job.
+## Have a project in mind and want to collab? 🤔
+I'm down to take up any challenges in the field of Software-Electrical-Music Tech. [Send me an email](mailto:hoangtuan11102@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/antoinephan/) if you have an idea and is looking for a teammate!
 
 > Fun fact: `notkaramel` was originated from **crème caramel** 🍮 (a.k.a *flan* or *custard*) is a delicate French dessert.

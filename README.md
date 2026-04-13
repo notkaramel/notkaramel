@@ -1,12 +1,14 @@
 # Bonjour/Hi! I'm Antoine
-Builder, Linux enthusiast, chronically on command line. Electrical/Software Engineering and Music Technology at McGill University (Canada).
+I build funny tools sometimes, am learning UI/UX design (I suck at drawing). Linux enthusiast (Arch btw~), chronically on command line. Electrical & Software Engineering.
+
+> I'm slowly moving away from GitHub. See https://git.notkaramel.dev/notkaramel instead.
 
 ## 💖 Active Projects
 - [ECSESS Website](https://ecsess.mcgilleus.ca) - [mcgill-ecsess/ECSESS](https://github.com/mcgill-ecsess/ECSESS)
 - Schedule Everything (WIP) - [notkaramel/schedule-everything](https://github.com/notkaramel/schedule-everything)
 - [Darkroom - The web-based photo editing app](https://darkroom.notkaramel.dev) - [notkaramel/darkroom](https://github.com/notkaramel/darkroom)
 - The Factory Inventory System - NocoDB, Cloudflare Tunnel, Digital Ocean (private repo)
-- [QR Code Generator](https://qrcode.notkaramel.dev)
+- [QR Code Generator](https://qrcode.notkaramel.dev) - [notkaramel/qrcode-generator](https://github.com/notkaramel/qrcode-generator)
 - CD Music Player on Raspberry Pi (WIP) - [notkaramel/cd-music-player](https://github.com/notkaramel/cd-music-player)
 
 ## ❄️ Past Projects
